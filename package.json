@@ -1,11 +1,11 @@
 {
-  "name": "travel-trucks",
+  "name": "traveltrucks",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/travel-trucks/",
+    "build": "vite build --base=/traveltrucks/",
     "preview": "vite preview"
   },
   "devDependencies": {
